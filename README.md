@@ -2,13 +2,13 @@
 
 ## Library Management System
 This is a simple Library Management System implemented in Python. It allows you to manage books and users, including adding, updating, deleting, listing, and searching by various attributes. The system also supports checking out and checking in books, tracking book availability, and logging operations.
-Features
+### Features
 Manage books (add, update, delete, list, and search by various attributes like title, author, or ISBN)
 Manage users (add, update, delete, list, and search by attributes like name, user ID)
 Check out and check-in books
 Track book availability
 Simple logging of operations
-Design
+### Design
 The system is designed using Object-Oriented Design principles, with clear relationships and responsibilities among classes. The following classes are used:
 Book: Represents a book with attributes like title, author, and ISBN.
 User: Represents a user with attributes like name and user ID.

@@ -30,10 +30,6 @@ The system is designed using Object-Oriented Design principles, with clear relat
 1. Run the application: `python main.py`
 2. Follow the prompts to interact with the system.
 
-## Testing
-
-No formal testing suite is provided. However, the code has been manually tested to ensure correct functionality.
-
 ## Documentation
 
 The code includes docstrings for classes and methods, and comments explaining complex logic or decisions.

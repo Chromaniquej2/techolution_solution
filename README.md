@@ -23,8 +23,7 @@ The system is designed using Object-Oriented Design principles, with clear relat
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/library-management-system.git`
-2. Install required packages: `pip install -r requirements.txt`
+1. Clone the repository: `git clone https://github.com/Chromaniquej2/techolution_solution.git`
 
 ## Usage
 
@@ -55,14 +54,3 @@ The code follows best practices in software development, including the DRY (Don'
 
 The code is structured and written in a way that makes it easy to modify, extend, or refactor parts of the system without affecting others.
 
-## Contributing
-
-Contributions are welcome. Please submit a pull request for review.
-
-## License
-
-This project is licensed under the MIT License.
-
-## Contact
-
-For any questions or concerns, please contact [yourname@example.com](mailto:yourname@example.com).
